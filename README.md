@@ -10,7 +10,7 @@ A classic Snake game built with Python using the Turtle graphics library.
 ## 🚀 How to Run
 1. Make sure you have Python installed
 2. Clone this repository:
-   git clone https://github.com/Tanush-dev/turtle-snake-game.git
+   git clone https://github.com/Tanush-dev/python-snake-game
 3. Run the game:
    python main2.py
 
